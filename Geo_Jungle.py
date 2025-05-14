@@ -7,9 +7,9 @@ app = Flask(__name__)
 CORS(app)
 
 # Replace this with your actual Groq API key
-groq_api_key = "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"
+groq_api_key = "Groq_API_Key"
 # Unsplash API key
-unsplash_api_key = "iH2yhvxYy2zlFnvrvVbQzISufXlGXmd3xpLV1vWs3Vw"
+unsplash_api_key = "Unsplash_API_Key"
 
 PROMPT_TEMPLATE = """
 You are a geography bot for kids aged 8–12. When given a place name, give a fun, educational, and easy-to-read description that includes the following:
