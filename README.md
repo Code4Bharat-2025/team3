@@ -38,7 +38,7 @@ GeoJungle is an interactive Flask-based web application designed to provide fun,
 2. Install dependencies:
 pip install -r requirements.txt
 - Run the application:
-python app.py
+python Geo_Jungle.py
 
 
 3. Open in browser:
